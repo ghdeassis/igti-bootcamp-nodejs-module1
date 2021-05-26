@@ -1,0 +1,60 @@
+{
+  "nextId": 18,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Bernardo Alves 4",
+      "balance": 54321
+    },
+    {
+      "id": 2,
+      "name": "José Silva",
+      "balance": 1230
+    },
+    {
+      "id": 5,
+      "name": "José Silva",
+      "balance": 50000
+    },
+    {
+      "id": 6,
+      "name": "José Silva",
+      "balance": 0
+    },
+    {
+      "id": 7,
+      "name": "João Silva",
+      "balance": 1300
+    },
+    {
+      "id": 9,
+      "name": "João Silva",
+      "balance": 1300
+    },
+    {
+      "id": 10,
+      "name": "Nome da Documentacao",
+      "balance": 4020.98
+    },
+    {
+      "id": 11,
+      "name": "Guilherme Assis",
+      "balance": 742.34
+    },
+    {
+      "id": 12,
+      "name": "Guilherme Assis",
+      "balance": 742.34
+    },
+    {
+      "id": 14,
+      "name": "João Silva",
+      "balance": 1300
+    },
+    {
+      "id": 17,
+      "name": "João Silva",
+      "balance": 1300
+    }
+  ]
+}

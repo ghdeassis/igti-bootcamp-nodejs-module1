@@ -1,0 +1,84 @@
+2020-07-12T20:25:10.579Z [my-bank-api] info: API Started and File Created!
+2020-07-12T20:26:14.208Z [my-bank-api] info: API Started and File Created!
+2020-07-12T20:26:23.049Z [my-bank-api] error: GET /account - ENOENT: no such file or directory, open 'c:\IGTI\my-bank-api\accounts.json'
+2020-07-12T20:30:15.239Z [my-bank-api] info: API Started and File Created!
+2020-07-12T20:30:24.033Z [my-bank-api] info: GET /account
+2020-07-12T20:30:27.450Z [my-bank-api] info: POST /account - {"id":1,"name":"Maria Silva","balance":3751.2}
+2020-07-12T20:30:37.091Z [my-bank-api] info: GET /account/:id
+2020-07-12T20:51:19.568Z [my-bank-api] info: API Started!
+2020-07-12T20:51:38.970Z [my-bank-api] info: POST /account - {"id":2,"name":"José Silva","balance":1230}
+2020-07-12T20:51:49.544Z [my-bank-api] info: POST /account - {"id":3}
+2020-07-12T20:52:03.381Z [my-bank-api] info: POST /account - {"id":4,"asdas":"sddasdas"}
+2020-07-12T20:54:07.844Z [my-bank-api] info: API Started!
+2020-07-12T20:54:17.891Z [my-bank-api] info: POST /account - {"id":5,"name":"José Silva","balance":1230}
+2020-07-12T20:54:23.144Z [my-bank-api] error: POST /account - Name e Balance são obrigatórios.
+2020-07-12T20:54:28.679Z [my-bank-api] error: POST /account - Name e Balance são obrigatórios.
+2020-07-12T20:54:38.528Z [my-bank-api] error: POST /account - Name e Balance são obrigatórios.
+2020-07-12T20:55:13.332Z [my-bank-api] info: API Started!
+2020-07-12T20:55:16.030Z [my-bank-api] info: POST /account - {"id":6,"name":"José Silva","balance":0}
+2020-07-12T20:55:26.526Z [my-bank-api] error: POST /account - Name e Balance são obrigatórios.
+2020-07-12T20:55:41.213Z [my-bank-api] info: POST /account - {"id":7,"name":"João Silva","balance":1300}
+2020-07-12T20:56:14.175Z [my-bank-api] info: POST /account - {"id":8,"name":"João Silva","balance":1300,"sadasddsa":"sadasdda"}
+2020-07-12T20:56:49.173Z [my-bank-api] info: API Started!
+2020-07-12T20:56:55.328Z [my-bank-api] info: POST /account - {"id":9,"name":"João Silva","balance":1300}
+2020-07-12T20:57:51.090Z [my-bank-api] info: API Started!
+2020-07-12T20:57:56.765Z [my-bank-api] info: PUT /account - {"id":78974,"name":"José Chaves","balance":2351.2}
+2020-07-12T20:58:37.351Z [my-bank-api] info: API Started!
+2020-07-12T20:58:38.749Z [my-bank-api] info: PUT /account - {"id":78974,"name":"José Chaves","balance":2351.2}
+2020-07-12T20:59:21.368Z [my-bank-api] info: API Started!
+2020-07-12T20:59:24.133Z [my-bank-api] error: PUT /account - Registro não encontrado.
+2020-07-12T20:59:27.934Z [my-bank-api] info: GET /account
+2020-07-12T20:59:33.638Z [my-bank-api] info: PUT /account - {"id":1,"name":"José Chaves","balance":2351.2}
+2020-07-12T20:59:41.149Z [my-bank-api] info: PUT /account - {"id":1,"name":"José Chaves","balance":2351.2,"sadasd":"asdasddas"}
+2020-07-12T21:00:13.312Z [my-bank-api] info: API Started!
+2020-07-12T21:00:18.749Z [my-bank-api] error: PUT /account - Name e Balance são obrigatórios.
+2020-07-12T21:00:34.599Z [my-bank-api] info: API Started!
+2020-07-12T21:00:38.412Z [my-bank-api] info: PUT /account - {"id":1,"name":"José Chaves","balance":2351.2,"sadasd":"asdasddas"}
+2020-07-12T21:00:54.327Z [my-bank-api] info: PUT /account - {"id":1,"name":"Bernardo Alves","balance":2351.2}
+2020-07-12T21:01:37.699Z [my-bank-api] info: API Started!
+2020-07-12T21:01:41.612Z [my-bank-api] error: PATCH /account - Registro não encontrado.
+2020-07-12T21:01:43.299Z [my-bank-api] error: PATCH /account - Registro não encontrado.
+2020-07-12T21:01:46.224Z [my-bank-api] info: GET /account
+2020-07-12T21:01:51.380Z [my-bank-api] info: PATCH /account/updateBalance - {"id":5,"balance":1251.2}
+2020-07-12T21:02:01.101Z [my-bank-api] info: PATCH /account/updateBalance - {"id":5}
+2020-07-12T21:02:23.441Z [my-bank-api] info: API Started!
+2020-07-12T21:02:24.767Z [my-bank-api] info: PATCH /account/updateBalance - {"id":5}
+2020-07-12T21:03:16.172Z [my-bank-api] info: API Started!
+2020-07-12T21:03:17.224Z [my-bank-api] error: PATCH /account - Id e Balance são obrigatórios.
+2020-07-12T21:03:24.367Z [my-bank-api] info: PATCH /account/updateBalance - {"id":5,"balance":50000}
+2020-07-12T21:03:29.703Z [my-bank-api] error: PATCH /account - Id e Balance são obrigatórios.
+2020-07-12T21:03:34.781Z [my-bank-api] info: PUT /account - {"id":1,"name":"Bernardo Alves","balance":2351.2}
+2020-07-12T21:03:38.036Z [my-bank-api] error: PUT /account - Registro não encontrado.
+2020-07-12T21:04:08.979Z [my-bank-api] info: API Started!
+2020-07-12T21:04:12.973Z [my-bank-api] error: PUT /account - Id, Name e Balance são obrigatórios.
+2020-07-12T21:04:15.418Z [my-bank-api] info: PUT /account - {"id":1,"name":"Bernardo Alves","balance":2351.2}
+2020-07-12T21:04:19.870Z [my-bank-api] error: PUT /account - Id, Name e Balance são obrigatórios.
+2020-07-12T21:04:23.670Z [my-bank-api] info: PUT /account - {"id":1,"name":"Bernardo Alves","balance":2351.2}
+2020-07-12T21:08:16.813Z [my-bank-api] error: PUT /account - Id, Name e Balance são obrigatórios.
+2020-07-12T21:34:30.270Z [my-bank-api] info: API Started!
+2020-07-12T21:35:08.913Z [my-bank-api] info: API Started!
+2020-07-12T21:35:43.730Z [my-bank-api] info: GET /account
+2020-07-12T21:39:12.546Z [my-bank-api] info: API Started!
+2020-07-12T21:39:15.481Z [my-bank-api] info: GET /account
+2020-07-12T21:39:17.054Z [my-bank-api] info: GET /account
+2020-07-12T21:39:44.929Z [my-bank-api] info: GET /account
+2020-07-12T21:39:49.148Z [my-bank-api] info: GET /account
+2020-07-12T21:40:39.837Z [my-bank-api] info: API Started!
+2020-07-12T21:40:44.697Z [my-bank-api] info: GET /account
+2020-07-12T21:40:52.170Z [my-bank-api] info: GET /account
+2020-07-12T21:40:52.997Z [my-bank-api] info: GET /account
+2020-07-12T21:40:55.719Z [my-bank-api] info: GET /account
+2020-07-12T21:41:06.011Z [my-bank-api] info: API Started!
+2020-07-12T21:41:51.336Z [my-bank-api] info: API Started!
+2020-07-12T21:41:54.218Z [my-bank-api] info: GET /account
+2020-07-12T21:42:05.874Z [my-bank-api] info: GET /account/:id
+2020-07-12T21:42:18.915Z [my-bank-api] info: API Started!
+2020-07-12T21:42:19.908Z [my-bank-api] info: GET /account/:id
+2020-07-12T21:42:30.776Z [my-bank-api] info: API Started!
+2020-07-12T21:42:34.497Z [my-bank-api] info: API Started!
+2020-07-12T22:15:17.778Z [my-bank-api] info: API Started!
+2020-07-12T22:15:54.263Z [my-bank-api] info: API Started!
+2020-07-12T22:18:20.116Z [my-bank-api] info: API Started!
+2020-07-12T22:19:21.134Z [my-bank-api] info: GET /account
+2020-07-12T22:20:25.693Z [my-bank-api] info: POST /account - {"id":10,"name":"Nome da Documentacao","balance":4020.98}
+2020-07-12T22:20:40.686Z [my-bank-api] info: GET /account
